@@ -24,7 +24,7 @@ A simple and modern todo list website built with HTML, CSS, and JavaScript.
 You can also run a local server if you prefer:
 
 ```bash
-python -m http.server 8000
+python -m http.server 8080
 ```
 
 Then open:
